@@ -1,0 +1,1289 @@
+1>------ Build started: Project: js2c, Configuration: Debug Win32 ------
+2>------ Build started: Project: v8_base, Configuration: Debug Win32 ------
+3>------ Build started: Project: openssl, Configuration: Debug Win32 ------
+4>------ Build started: Project: cares, Configuration: Debug Win32 ------
+5>------ Build started: Project: http_parser, Configuration: Debug Win32 ------
+6>------ Build started: Project: libuv, Configuration: Debug Win32 ------
+7>------ Build started: Project: node_etw, Configuration: Debug Win32 ------
+8>------ Build started: Project: node_js2c, Configuration: Debug Win32 ------
+1>js2c, and also js2c_experimental
+2>accessors.cc
+9>------ Build started: Project: node_perfctr, Configuration: Debug Win32 ------
+5>http_parser.c
+4>ares_cancel.c
+4>ares__close_sockets.c
+3>Assembling asm\x86-win32-masm\aes\aes-586.asm to Debug\obj\openssl\aes-586.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\aes\aes-586.asm
+4>ares_data.c
+3>Assembling asm\x86-win32-masm\aes\aesni-x86.asm to Debug\obj\openssl\aesni-x86.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+8>node_js2c
+5>http_parser.vcxproj -> D:\github\node\node-0.10\Debug\lib\http_parser.lib
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\aes\aesni-x86.asm
+4>ares_destroy.c
+10>------ Build started: Project: zlib, Configuration: Debug Win32 ------
+3>Assembling asm\x86-win32-masm\aes\vpaes-x86.asm to Debug\obj\openssl\vpaes-x86.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\aes\vpaes-x86.asm
+3>Assembling asm\x86-win32-masm\bf\bf-686.asm to Debug\obj\openssl\bf-686.obj.
+4>ares_expand_name.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\bf\bf-686.asm
+3>Assembling asm\x86-win32-masm\bn\x86-mont.asm to Debug\obj\openssl\x86-mont.obj.
+6>fs-poll.c
+11>------ Build started: Project: node_dtrace_header, Configuration: Debug Win32 ------
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+4>ares_expand_string.c
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\bn\x86-mont.asm
+3>Assembling asm\x86-win32-masm\bn\x86.asm to Debug\obj\openssl\x86.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\bn\x86.asm
+3>Assembling asm\x86-win32-masm\camellia\cmll-x86.asm to Debug\obj\openssl\cmll-x86.obj.
+12>------ Build started: Project: node_dtrace_provider, Configuration: Debug Win32 ------
+2>allocation.cc
+6>inet.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\camellia\cmll-x86.asm
+2>api.cc
+3>Assembling asm\x86-win32-masm\cast\cast-586.asm to Debug\obj\openssl\cast-586.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+4>ares_fds.c
+4>ares_free_hostent.c
+10>ioapi.c
+10>iowin32.c
+13>------ Build started: Project: node_dtrace_ustack, Configuration: Debug Win32 ------
+3>
+3> Assembling: asm\x86-win32-masm\cast\cast-586.asm
+3>Assembling asm\x86-win32-masm\des\crypt586.asm to Debug\obj\openssl\crypt586.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+6>uv-common.c
+3> Assembling: asm\x86-win32-masm\des\crypt586.asm
+14>------ Build started: Project: node_systemtap_header, Configuration: Debug Win32 ------
+4>ares_free_string.c
+3>Assembling asm\x86-win32-masm\des\des-586.asm to Debug\obj\openssl\des-586.obj.
+10>unzip.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+10>zip.c
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\des\des-586.asm
+4>ares_gethostbyaddr.c
+3>Assembling asm\x86-win32-masm\md5\md5-586.asm to Debug\obj\openssl\md5-586.obj.
+10>adler32.c
+10>compress.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+10>crc32.c
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\md5\md5-586.asm
+3>Assembling asm\x86-win32-masm\rc4\rc4-586.asm to Debug\obj\openssl\rc4-586.obj.
+15>------ Build started: Project: specialize_node_d, Configuration: Debug Win32 ------
+10>deflate.c
+4>ares_gethostbyname.c
+10>gzclose.c
+10>gzlib.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\rc4\rc4-586.asm
+10>gzread.c
+10>gzwrite.c
+3>Assembling asm\x86-win32-masm\rc5\rc5-586.asm to Debug\obj\openssl\rc5-586.obj.
+6>D:\github\node\node-0.10\deps\uv\src\uv-common.c(169,26): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+6>version.c
+10>infback.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+4>D:\github\node\node-0.10\deps\cares\src\ares_gethostbyname.c(272,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+10>inffast.c
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\rc5\rc5-586.asm
+4>ares__get_hostent.c
+3>Assembling asm\x86-win32-masm\ripemd\rmd-586.asm to Debug\obj\openssl\rmd-586.obj.
+10>inflate.c
+6>async.c
+10>inftrees.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\ripemd\rmd-586.asm
+3>Assembling asm\x86-win32-masm\sha\sha1-586.asm to Debug\obj\openssl\sha1-586.obj.
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+10>trees.c
+4>D:\github\node\node-0.10\deps\cares\src\ares__get_hostent.c(144,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\sha\sha1-586.asm
+3>Assembling asm\x86-win32-masm\sha\sha256-586.asm to Debug\obj\openssl\sha256-586.obj.
+4>ares_getnameinfo.c
+10>uncompr.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\sha\sha256-586.asm
+3>Assembling asm\x86-win32-masm\sha\sha512-586.asm to Debug\obj\openssl\sha512-586.obj.
+10>zutil.c
+10>Generating Code...
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+4>ares_getopt.c
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\sha\sha512-586.asm
+3>Assembling asm\x86-win32-masm\whrlpool\wp-mmx.asm to Debug\obj\openssl\wp-mmx.obj.
+4>ares_getsock.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\whrlpool\wp-mmx.asm
+3>Assembling asm\x86-win32-masm\modes\ghash-x86.asm to Debug\obj\openssl\ghash-x86.obj.
+6>core.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+2>assembler.cc
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\modes\ghash-x86.asm
+3>Assembling asm\x86-win32-masm\x86cpuid.asm to Debug\obj\openssl\x86cpuid.obj.
+4>ares_init.c
+3>Microsoft (R) Macro Assembler Version 14.25.28611.0
+3>Copyright (C) Microsoft Corporation.  All rights reserved.
+3>
+3> Assembling: asm\x86-win32-masm\x86cpuid.asm
+10>zlib.vcxproj -> D:\github\node\node-0.10\Debug\lib\zlib.lib
+4>ares_library_init.c
+16>------ Build started: Project: v8_nosnapshot, Configuration: Debug Win32 ------
+6>dl.c
+3>bio_ssl.c
+4>ares_llist.c
+4>ares_mkquery.c
+6>error.c
+3>d1_both.c
+16>libraries.cc
+4>ares_nowarn.c
+3>d1_clnt.c
+4>Generating Code...
+6>fs.c
+4>Compiling...
+4>ares_options.c
+3>d1_enc.c
+2>ast.cc
+4>ares_parse_aaaa_reply.c
+3>d1_lib.c
+4>ares_parse_a_reply.c
+6>fs-event.c
+3>d1_meth.c
+4>ares_parse_mx_reply.c
+4>ares_parse_naptr_reply.c
+6>getaddrinfo.c
+3>d1_pkt.c
+4>ares_parse_ns_reply.c
+3>d1_srtp.c
+16>experimental-libraries.cc
+6>handle.c
+4>ares_parse_ptr_reply.c
+2>atomicops_internals_x86_gcc.cc
+3>d1_srvr.c
+4>ares_parse_soa_reply.c
+6>loop-watcher.c
+2>bignum-dtoa.cc
+4>ares_parse_srv_reply.c
+3>kssl.c
+2>bignum.cc
+2>bootstrapper.cc
+4>ares_parse_txt_reply.c
+3>s23_clnt.c
+6>pipe.c
+4>ares_process.c
+16>snapshot-empty.cc
+3>s23_lib.c
+4>ares_query.c
+6>thread.c
+4>ares__read_line.c
+3>s23_meth.c
+4>ares_search.c
+3>s23_pkt.c
+6>poll.c
+4>ares_send.c
+3>s23_srvr.c
+4>ares_strcasecmp.c
+16>Generating Code...
+6>process.c
+3>s2_clnt.c
+2>builtins.cc
+4>ares_strdup.c
+16>v8_nosnapshot.vcxproj -> ..\..\..\..\build\Debug\lib\v8_nosnapshot.lib
+3>s2_enc.c
+4>ares_strerror.c
+6>process-stdio.c
+4>ares_timeout.c
+3>s2_lib.c
+4>ares__timeval.c
+3>s2_meth.c
+4>Generating Code...
+6>req.c
+4>Compiling...
+4>ares_version.c
+3>s2_pkt.c
+4>ares_writev.c
+6>signal.c
+3>Generating Code...
+4>bitncmp.c
+2>cached-powers.cc
+3>Compiling...
+3>s2_srvr.c
+2>checks.cc
+4>inet_net_pton.c
+6>Generating Code...
+3>s3_both.c
+4>inet_ntop.c
+6>Compiling...
+6>stream.c
+3>s3_clnt.c
+4>windows_port.c
+6>tcp.c
+4>ares_getenv.c
+3>s3_enc.c
+4>ares_platform.c
+2>circular-queue.cc
+3>s3_lib.c
+4>D:\github\node\node-0.10\deps\cares\src\ares_platform.c(39,8): warning C4996: 'GetVersionExA': was declared deprecated
+4>D:\github\node\node-0.10\deps\cares\src\ares_platform.c(43,12): warning C4996: 'GetVersionExA': was declared deprecated
+6>tty.c
+4>Generating Code...
+3>s3_meth.c
+3>s3_pkt.c
+6>threadpool.c
+3>s3_srvr.c
+6>timer.c
+2>code-stubs.cc
+3>D:\github\node\node-0.10\deps\openssl\openssl\ssl\s3_srvr.c(1043,51): warning C4018: '>=': signed/unsigned mismatch
+3>D:\github\node\node-0.10\deps\openssl\openssl\ssl\s3_srvr.c(1124,26): warning C4018: '<': signed/unsigned mismatch
+3>s3_cbc.c
+4>cares.vcxproj -> D:\github\node\node-0.10\Debug\lib\cares.lib
+4>Done building project "cares.vcxproj".
+6>udp.c
+3>ssl_algs.c
+3>ssl_asn1.c
+6>D:\github\node\node-0.10\deps\uv\src\win\udp.c(606,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+6>D:\github\node\node-0.10\deps\uv\src\win\udp.c(611,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+6>util.c
+3>ssl_cert.c
+3>ssl_ciph.c
+6>winapi.c
+2>codegen.cc
+3>ssl_err.c
+6>winsock.c
+3>ssl_err2.c
+6>Generating Code...
+3>ssl_lib.c
+3>ssl_rsa.c
+3>ssl_sess.c
+2>compilation-cache.cc
+3>ssl_stat.c
+6>libuv.vcxproj -> D:\github\node\node-0.10\Debug\lib\libuv.lib
+6>Done building project "libuv.vcxproj".
+3>ssl_txt.c
+3>Generating Code...
+3>Compiling...
+3>t1_clnt.c
+2>compiler.cc
+3>t1_enc.c
+3>t1_lib.c
+3>t1_meth.c
+3>t1_reneg.c
+3>t1_srvr.c
+3>tls_srp.c
+2>contexts.cc
+3>aes_cfb.c
+3>aes_ctr.c
+3>aes_ecb.c
+3>aes_ige.c
+3>aes_misc.c
+3>aes_ofb.c
+3>aes_wrap.c
+3>a_bitstr.c
+3>a_bool.c
+2>conversions.cc
+3>a_bytes.c
+3>a_d2i_fp.c
+2>counters.cc
+3>a_digest.c
+3>a_dup.c
+3>Generating Code...
+3>Compiling...
+3>a_enum.c
+2>Generating Code...
+3>a_gentm.c
+3>a_i2d_fp.c
+3>a_int.c
+3>a_mbstr.c
+3>a_object.c
+3>a_octet.c
+3>a_print.c
+2>Compiling...
+2>cpu-profiler.cc
+3>a_set.c
+3>a_sign.c
+3>a_strex.c
+3>a_strnid.c
+2>data-flow.cc
+3>a_time.c
+3>a_type.c
+3>a_utctm.c
+3>a_utf8.c
+3>a_verify.c
+2>date.cc
+3>ameth_lib.c
+3>asn1_err.c
+3>asn1_gen.c
+3>Generating Code...
+3>Compiling...
+3>asn1_lib.c
+3>asn1_par.c
+2>dateparser.cc
+3>asn_mime.c
+3>asn_moid.c
+3>asn_pack.c
+3>bio_asn1.c
+3>bio_ndef.c
+2>debug-agent.cc
+3>d2i_pr.c
+3>d2i_pu.c
+3>evp_asn1.c
+3>f_enum.c
+3>f_int.c
+2>debug.cc
+3>f_string.c
+3>i2d_pr.c
+3>i2d_pu.c
+3>n_pkey.c
+3>nsseq.c
+3>p5_pbe.c
+2>deoptimizer.cc
+3>p5_pbev2.c
+3>p8_pkey.c
+3>Generating Code...
+3>Compiling...
+3>t_bitst.c
+3>t_crl.c
+3>t_pkey.c
+2>disassembler.cc
+3>t_req.c
+3>t_spki.c
+3>t_x509.c
+3>t_x509a.c
+3>tasn_dec.c
+3>tasn_enc.c
+2>diy-fp.cc
+2>dtoa.cc
+3>tasn_fre.c
+3>tasn_new.c
+2>elements-kind.cc
+3>tasn_prn.c
+3>tasn_typ.c
+3>tasn_utl.c
+3>x_algor.c
+3>x_attrib.c
+3>x_bignum.c
+3>x_crl.c
+2>elements.cc
+3>x_exten.c
+3>x_info.c
+3>Generating Code...
+3>Compiling...
+3>x_long.c
+3>x_name.c
+3>x_nx509.c
+2>execution.cc
+3>x_pkey.c
+3>x_pubkey.c
+3>x_req.c
+3>x_sig.c
+3>x_spki.c
+3>x_val.c
+2>externalize-string-extension.cc
+3>x_x509.c
+3>x_x509a.c
+3>bf_cfb64.c
+3>bf_ecb.c
+3>bf_ofb64.c
+3>bf_skey.c
+3>b_dump.c
+3>b_print.c
+2>gc-extension.cc
+3>D:\github\node\node-0.10\deps\openssl\openssl\crypto\bio\b_print.c(388,35): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+3>b_sock.c
+3>D:\github\node\node-0.10\deps\openssl\openssl\crypto\bio\b_sock.c(373,12): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+3>bf_buff.c
+3>bf_nbio.c
+3>Generating Code...
+2>statistics-extension.cc
+3>Compiling...
+3>bf_null.c
+3>bio_cb.c
+3>bio_err.c
+3>bio_lib.c
+2>factory.cc
+3>bss_acpt.c
+3>bss_bio.c
+3>bss_conn.c
+3>bss_dgram.c
+3>bss_fd.c
+3>bss_file.c
+2>fast-dtoa.cc
+3>bss_log.c
+2>fixed-dtoa.cc
+2>flags.cc
+3>bss_mem.c
+3>bss_null.c
+3>bss_sock.c
+3>bn_add.c
+3>bn_blind.c
+2>Generating Code...
+3>bn_const.c
+3>bn_ctx.c
+3>bn_depr.c
+3>bn_div.c
+3>Generating Code...
+3>Compiling...
+3>bn_err.c
+3>bn_exp.c
+3>bn_exp2.c
+3>bn_gcd.c
+2>Compiling...
+2>frames.cc
+3>bn_gf2m.c
+3>bn_kron.c
+3>bn_lib.c
+3>bn_mod.c
+3>bn_mont.c
+3>bn_mpi.c
+3>bn_mul.c
+2>full-codegen.cc
+3>bn_nist.c
+3>bn_prime.c
+3>bn_print.c
+3>bn_rand.c
+2>func-name-inferrer.cc
+3>bn_recp.c
+3>bn_shift.c
+3>bn_sqr.c
+3>bn_sqrt.c
+3>bn_word.c
+3>Generating Code...
+2>gdb-jit.cc
+2>global-handles.cc
+3>Compiling...
+3>bn_x931p.c
+3>buf_err.c
+3>buf_str.c
+3>buffer.c
+3>cmll_cfb.c
+3>cmll_ctr.c
+3>cmll_ecb.c
+3>cmll_ofb.c
+3>cmll_utl.c
+3>c_cfb64.c
+3>c_ecb.c
+2>handles.cc
+3>c_ofb64.c
+3>c_skey.c
+3>cm_ameth.c
+3>cm_pmeth.c
+3>cmac.c
+3>cms_asn1.c
+2>heap-profiler.cc
+3>cms_att.c
+3>cms_cd.c
+3>cms_dd.c
+3>Generating Code...
+3>Compiling...
+3>cms_enc.c
+3>cms_env.c
+2>heap.cc
+3>cms_err.c
+3>cms_ess.c
+3>cms_io.c
+3>cms_lib.c
+3>cms_pwri.c
+3>cms_sd.c
+3>cms_smime.c
+2>hydrogen-instructions.cc
+3>c_rle.c
+3>c_zlib.c
+3>comp_err.c
+3>comp_lib.c
+3>conf_api.c
+3>conf_def.c
+3>conf_err.c
+3>conf_lib.c
+3>conf_mall.c
+3>conf_mod.c
+3>conf_sap.c
+3>Generating Code...
+2>hydrogen.cc
+3>Compiling...
+3>cpt_err.c
+3>cryptlib.c
+3>cversion.c
+3>cbc_cksm.c
+3>cbc_enc.c
+3>cfb64ede.c
+3>cfb64enc.c
+3>cfb_enc.c
+3>des_old.c
+3>des_old2.c
+3>ecb3_enc.c
+3>ecb_enc.c
+3>ede_cbcm_enc.c
+3>enc_read.c
+2>ic.cc
+3>enc_writ.c
+3>fcrypt.c
+3>ofb64ede.c
+3>ofb64enc.c
+3>ofb_enc.c
+3>pcbc_enc.c
+3>Generating Code...
+3>Compiling...
+3>qud_cksm.c
+3>rand_key.c
+3>read2pwd.c
+3>rpc_enc.c
+3>set_key.c
+3>str2key.c
+3>xcbc_enc.c
+3>dh_ameth.c
+2>incremental-marking.cc
+3>dh_asn1.c
+3>dh_check.c
+3>dh_depr.c
+3>dh_err.c
+3>dh_gen.c
+3>dh_key.c
+3>dh_lib.c
+3>dh_pmeth.c
+3>dh_prn.c
+2>inspector.cc
+3>dsa_ameth.c
+3>dsa_asn1.c
+2>interface.cc
+3>dsa_depr.c
+3>Generating Code...
+3>Compiling...
+3>dsa_err.c
+3>dsa_gen.c
+3>dsa_key.c
+2>interpreter-irregexp.cc
+3>dsa_lib.c
+3>dsa_ossl.c
+3>dsa_pmeth.c
+3>dsa_prn.c
+3>dsa_sign.c
+2>isolate.cc
+3>dsa_vrf.c
+3>dso_beos.c
+3>dso_dl.c
+3>dso_dlfcn.c
+3>dso_err.c
+3>dso_lib.c
+3>dso_null.c
+3>dso_openssl.c
+2>jsregexp.cc
+3>dso_vms.c
+3>dso_win32.c
+3>ebcdic.c
+3>ec2_mult.c
+3>Generating Code...
+3>Compiling...
+3>ec2_oct.c
+3>ec2_smpl.c
+3>ec_ameth.c
+3>ec_asn1.c
+3>ec_check.c
+3>ec_curve.c
+3>ec_cvt.c
+2>lithium-allocator.cc
+3>ec_err.c
+3>ec_key.c
+3>ec_lib.c
+3>ec_mult.c
+3>ec_oct.c
+3>ec_pmeth.c
+3>ec_print.c
+3>eck_prn.c
+3>ecp_mont.c
+3>ecp_nist.c
+3>ecp_nistp224.c
+3>ecp_nistp256.c
+3>ecp_nistp521.c
+3>Generating Code...
+3>Compiling...
+3>ecp_nistputil.c
+3>ecp_oct.c
+3>ecp_smpl.c
+3>ech_err.c
+3>ech_key.c
+3>ech_lib.c
+3>ech_ossl.c
+2>lithium.cc
+3>ecs_asn1.c
+3>ecs_err.c
+3>ecs_lib.c
+3>ecs_ossl.c
+3>ecs_sign.c
+3>ecs_vrf.c
+3>eng_all.c
+3>eng_cnf.c
+2>liveedit.cc
+3>eng_cryptodev.c
+3>eng_ctrl.c
+3>eng_dyn.c
+3>eng_err.c
+3>eng_fat.c
+3>Generating Code...
+2>Generating Code...
+3>Compiling...
+3>eng_init.c
+3>eng_lib.c
+3>eng_list.c
+3>eng_openssl.c
+3>eng_pkey.c
+3>eng_rdrand.c
+3>eng_rsax.c
+3>eng_table.c
+3>tb_asnmth.c
+3>tb_cipher.c
+3>tb_dh.c
+2>Compiling...
+2>liveobjectlist.cc
+2>log-utils.cc
+3>tb_digest.c
+3>tb_dsa.c
+3>tb_ecdh.c
+3>tb_ecdsa.c
+2>log.cc
+3>tb_pkmeth.c
+3>tb_rand.c
+3>tb_rsa.c
+3>tb_store.c
+3>err.c
+3>Generating Code...
+2>mark-compact.cc
+3>Compiling...
+3>err_all.c
+3>err_prn.c
+3>bio_b64.c
+3>bio_enc.c
+3>bio_md.c
+2>messages.cc
+3>bio_ok.c
+3>c_all.c
+3>c_allc.c
+3>c_alld.c
+2>objects-debug.cc
+3>digest.c
+3>e_aes.c
+3>e_aes_cbc_hmac_sha1.c
+3>e_bf.c
+2>objects-printer.cc
+3>e_camellia.c
+3>e_cast.c
+3>e_des.c
+3>e_des3.c
+3>e_idea.c
+3>e_null.c
+2>objects-visiting.cc
+3>e_old.c
+3>Generating Code...
+3>Compiling...
+3>e_rc2.c
+3>e_rc4.c
+3>e_rc4_hmac_md5.c
+3>e_rc5.c
+3>e_seed.c
+3>e_xcbc_d.c
+2>objects.cc
+3>encode.c
+3>evp_acnf.c
+3>evp_cnf.c
+3>evp_enc.c
+3>evp_err.c
+3>evp_fips.c
+3>evp_key.c
+3>evp_lib.c
+3>evp_pbe.c
+2>once.cc
+3>evp_pkey.c
+2>optimizing-compiler-thread.cc
+3>m_dss.c
+3>m_dss1.c
+3>m_ecdsa.c
+3>m_md2.c
+3>Generating Code...
+3>Compiling...
+3>m_md4.c
+2>parser.cc
+3>m_md5.c
+3>m_mdc2.c
+3>m_null.c
+3>m_ripemd.c
+3>m_sha.c
+3>m_sha1.c
+3>m_sigver.c
+2>preparse-data.cc
+2>preparser.cc
+3>m_wp.c
+3>names.c
+2>prettyprinter.cc
+3>p5_crpt.c
+3>p5_crpt2.c
+3>p_dec.c
+3>p_enc.c
+3>p_lib.c
+2>profile-generator.cc
+3>p_open.c
+3>p_seal.c
+3>p_sign.c
+3>p_verify.c
+3>pmeth_fn.c
+2>property.cc
+3>Generating Code...
+3>Compiling...
+3>pmeth_gn.c
+3>pmeth_lib.c
+3>ex_data.c
+2>regexp-macro-assembler-irregexp.cc
+3>fips_ers.c
+3>hm_ameth.c
+3>hm_pmeth.c
+3>hmac.c
+3>i_cbc.c
+3>i_cfb64.c
+3>i_ecb.c
+3>i_ofb64.c
+3>i_skey.c
+3>krb5_asn.c
+3>lh_stats.c
+3>lhash.c
+2>regexp-macro-assembler-tracer.cc
+3>md4_dgst.c
+3>md4_one.c
+3>md5_dgst.c
+3>md5_one.c
+3>mdc2_one.c
+3>Generating Code...
+3>Compiling...
+3>mdc2dgst.c
+3>mem.c
+2>regexp-macro-assembler.cc
+3>mem_dbg.c
+3>cbc128.c
+3>ccm128.c
+3>cfb128.c
+3>ctr128.c
+3>cts128.c
+3>gcm128.c
+3>ofb128.c
+3>xts128.c
+3>o_dir.c
+3>o_fips.c
+3>o_init.c
+2>Generating Code...
+3>o_str.c
+3>o_time.c
+3>o_names.c
+3>obj_dat.c
+3>obj_err.c
+3>obj_lib.c
+3>Generating Code...
+3>Compiling...
+3>obj_xref.c
+3>ocsp_asn.c
+3>ocsp_cl.c
+3>ocsp_err.c
+3>ocsp_ext.c
+3>ocsp_ht.c
+2>Compiling...
+2>regexp-stack.cc
+3>ocsp_lib.c
+3>ocsp_prn.c
+3>ocsp_srv.c
+3>ocsp_vfy.c
+3>pem_all.c
+3>pem_err.c
+2>rewriter.cc
+3>pem_info.c
+3>pem_lib.c
+3>pem_oth.c
+3>pem_pk8.c
+3>pem_pkey.c
+2>runtime-profiler.cc
+3>pem_seal.c
+3>pem_sign.c
+3>pem_x509.c
+3>Generating Code...
+3>Compiling...
+3>pem_xaux.c
+3>pvkfmt.c
+2>runtime.cc
+3>p12_add.c
+3>p12_asn.c
+3>p12_attr.c
+3>p12_crpt.c
+3>p12_crt.c
+3>p12_decr.c
+3>p12_init.c
+2>safepoint-table.cc
+3>p12_key.c
+3>p12_kiss.c
+3>p12_mutl.c
+3>p12_npas.c
+3>p12_p8d.c
+3>p12_p8e.c
+2>scanner-character-streams.cc
+3>p12_utl.c
+3>pk12err.c
+3>bio_pk7.c
+3>pk7_asn1.c
+3>pk7_attr.c
+3>Generating Code...
+2>scanner.cc
+3>Compiling...
+3>pk7_doit.c
+2>scopeinfo.cc
+3>pk7_lib.c
+3>pk7_mime.c
+3>pk7_smime.c
+3>pkcs7err.c
+3>pqueue.c
+2>scopes.cc
+3>md_rand.c
+3>rand_egd.c
+3>rand_err.c
+3>rand_lib.c
+3>rand_nw.c
+3>rand_os2.c
+2>serialize.cc
+3>rand_unix.c
+3>rand_win.c
+3>randfile.c
+3>rc2_cbc.c
+3>rc2_ecb.c
+3>rc2_skey.c
+3>rc2cfb64.c
+3>rc2ofb64.c
+3>Generating Code...
+3>Compiling...
+3>rc4_utl.c
+3>rmd_dgst.c
+3>rmd_one.c
+3>rsa_ameth.c
+2>snapshot-common.cc
+3>rsa_asn1.c
+3>rsa_chk.c
+3>rsa_crpt.c
+3>rsa_depr.c
+3>rsa_eay.c
+2>spaces.cc
+3>rsa_err.c
+3>rsa_gen.c
+3>rsa_lib.c
+3>rsa_none.c
+3>rsa_null.c
+3>rsa_oaep.c
+2>store-buffer.cc
+3>rsa_pk1.c
+3>rsa_pmeth.c
+3>rsa_prn.c
+3>rsa_pss.c
+2>string-search.cc
+3>rsa_saos.c
+3>Generating Code...
+3>Compiling...
+3>rsa_sign.c
+3>rsa_ssl.c
+2>string-stream.cc
+3>rsa_x931.c
+3>seed.c
+3>seed_cbc.c
+3>seed_cfb.c
+3>seed_ecb.c
+3>seed_ofb.c
+3>sha1_one.c
+3>sha1dgst.c
+3>sha256.c
+3>sha512.c
+3>sha_dgst.c
+3>sha_one.c
+2>strtod.cc
+3>srp_lib.c
+2>stub-cache.cc
+3>srp_vfy.c
+3>stack.c
+3>ts_asn1.c
+3>ts_conf.c
+3>ts_err.c
+3>Generating Code...
+3>Compiling...
+3>ts_lib.c
+2>token.cc
+3>ts_req_print.c
+2>transitions.cc
+3>ts_req_utils.c
+3>ts_rsp_print.c
+3>ts_rsp_sign.c
+3>ts_rsp_utils.c
+2>type-info.cc
+3>ts_rsp_verify.c
+3>ts_verify_ctx.c
+3>txt_db.c
+3>ui_compat.c
+3>ui_err.c
+3>ui_lib.c
+2>Generating Code...
+3>ui_openssl.c
+3>ui_util.c
+3>uid.c
+3>wp_dgst.c
+3>by_dir.c
+3>by_file.c
+3>x509_att.c
+3>x509_cmp.c
+3>Generating Code...
+3>Compiling...
+3>x509_d2.c
+3>x509_def.c
+3>x509_err.c
+3>x509_ext.c
+2>Compiling...
+2>unicode.cc
+2>utils.cc
+3>x509_lu.c
+2>v8-counters.cc
+3>x509_obj.c
+3>x509_r2x.c
+3>x509_req.c
+3>x509_set.c
+2>v8.cc
+3>x509_trs.c
+3>x509_txt.c
+3>x509_v3.c
+3>x509_vfy.c
+3>x509_vpm.c
+3>x509cset.c
+2>v8conversions.cc
+3>x509name.c
+3>x509rset.c
+3>x509spki.c
+3>x509type.c
+3>x_all.c
+2>v8threads.cc
+3>Generating Code...
+3>Compiling...
+3>pcy_cache.c
+3>pcy_data.c
+3>pcy_lib.c
+2>v8utils.cc
+3>pcy_map.c
+3>pcy_node.c
+3>pcy_tree.c
+3>v3_addr.c
+2>variables.cc
+3>v3_akey.c
+3>v3_akeya.c
+3>v3_alt.c
+3>v3_asid.c
+2>version.cc
+3>v3_bcons.c
+3>v3_bitst.c
+3>v3_conf.c
+3>v3_cpols.c
+2>zone.cc
+3>v3_crld.c
+3>v3_enum.c
+3>v3_extku.c
+3>v3_genn.c
+2>D:\github\node\node-0.10\deps\v8\src\zone.cc(171,1): warning C4018: '<': signed/unsigned mismatch
+2>assembler-ia32.cc
+3>v3_ia5.c
+3>Generating Code...
+3>Compiling...
+3>v3_info.c
+3>v3_int.c
+3>v3_lib.c
+2>builtins-ia32.cc
+3>v3_ncons.c
+3>v3_ocsp.c
+3>v3_pci.c
+3>v3_pcia.c
+3>v3_pcons.c
+3>v3_pku.c
+2>code-stubs-ia32.cc
+3>v3_pmaps.c
+3>v3_prn.c
+3>v3_purp.c
+3>v3_skey.c
+3>v3_sxnet.c
+3>v3_utl.c
+2>codegen-ia32.cc
+3>v3err.c
+3>e_4758cca.c
+3>e_aep.c
+3>e_atalla.c
+3>e_capi.c
+3>Generating Code...
+2>cpu-ia32.cc
+3>Compiling...
+3>e_chil.c
+3>e_cswift.c
+3>e_gmp.c
+3>e_nuron.c
+3>e_sureware.c
+2>debug-ia32.cc
+3>e_ubsec.c
+3>wp_block.c
+3>Generating Code...
+2>deoptimizer-ia32.cc
+2>disasm-ia32.cc
+2>frames-ia32.cc
+2>full-codegen-ia32.cc
+2>Generating Code...
+2>Compiling...
+2>ic-ia32.cc
+3>openssl.vcxproj -> D:\github\node\node-0.10\Debug\lib\openssl.lib
+3>Done building project "openssl.vcxproj".
+17>------ Build started: Project: openssl-cli, Configuration: Debug Win32 ------
+17>app_rand.c
+17>apps.c
+2>lithium-codegen-ia32.cc
+17>D:\github\node\node-0.10\deps\openssl\openssl\apps\apps.c(2627,35): warning C4267: '=': conversion from 'size_t' to 'unsigned char', possible loss of data
+17>D:\github\node\node-0.10\deps\openssl\openssl\apps\apps.c(2633,22): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+17>asn1pars.c
+17>ca.c
+17>ciphers.c
+17>cms.c
+17>crl.c
+17>crl2p7.c
+17>dgst.c
+2>lithium-gap-resolver-ia32.cc
+17>dh.c
+17>dhparam.c
+17>dsa.c
+17>dsaparam.c
+17>ec.c
+17>ecparam.c
+17>enc.c
+2>lithium-ia32.cc
+17>engine.c
+17>errstr.c
+17>gendh.c
+17>gendsa.c
+17>Generating Code...
+17>Compiling...
+17>genpkey.c
+2>macro-assembler-ia32.cc
+17>genrsa.c
+17>nseq.c
+17>ocsp.c
+17>openssl.c
+2>regexp-macro-assembler-ia32.cc
+17>passwd.c
+17>pkcs12.c
+17>pkcs7.c
+17>pkcs8.c
+17>pkey.c
+2>stub-cache-ia32.cc
+17>pkeyparam.c
+17>pkeyutl.c
+17>prime.c
+17>rand.c
+17>req.c
+17>rsa.c
+2>platform-win32.cc
+17>rsautl.c
+17>s_cb.c
+17>s_client.c
+17>s_server.c
+17>Generating Code...
+2>win32-math.cc
+2>Generating Code...
+17>Compiling...
+17>s_socket.c
+17>D:\github\node\node-0.10\deps\openssl\openssl\apps\s_socket.c(165,9): warning C4996: 'WSACancelBlockingCall': Use Winsock 2 instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+17>D:\github\node\node-0.10\deps\openssl\openssl\apps\s_socket.c(442,10): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+17>D:\github\node\node-0.10\deps\openssl\openssl\apps\s_socket.c(591,15): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+17>s_time.c
+17>sess_id.c
+17>smime.c
+17>speed.c
+17>spkac.c
+17>srp.c
+17>ts.c
+17>verify.c
+17>version.c
+17>x509.c
+17>Generating Code...
+2>v8_base.vcxproj -> ..\..\..\..\build\Debug\lib\v8_base.lib
+2>Done building project "v8_base.vcxproj".
+18>------ Build started: Project: mksnapshot, Configuration: Debug Win32 ------
+18>mksnapshot.cc
+17>openssl-cli.vcxproj -> D:\github\node\node-0.10\Debug\\openssl-cli.exe
+17>Done building project "openssl-cli.vcxproj".
+18>   Creating library ..\..\..\..\build\Debug\mksnapshot.lib and object ..\..\..\..\build\Debug\mksnapshot.exp
+18>mksnapshot.vcxproj -> ..\..\..\..\build\Debug\\mksnapshot.exe
+19>------ Build started: Project: v8_snapshot, Configuration: Debug Win32 ------
+19>run_mksnapshot
+19>libraries.cc
+19>experimental-libraries.cc
+19>snapshot.cc
+19>Generating Code...
+19>v8_snapshot.vcxproj -> ..\..\..\..\build\Debug\lib\v8_snapshot.lib
+20>------ Build started: Project: v8, Configuration: Debug Win32 ------
+21>------ Build started: Project: node, Configuration: Debug Win32 ------
+21>fs_event_wrap.cc
+21>cares_wrap.cc
+21>handle_wrap.cc
+21>node.cc
+21>D:\github\node\node-0.10\src\node.cc(1787,29): warning C4244: 'argument': conversion from 'int64_t' to 'int', possible loss of data
+21>D:\github\node\node-0.10\src\node.cc(1799,42): warning C4244: 'argument': conversion from 'double' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node.cc(1843,11): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+21>D:\github\node\node-0.10\src\node.cc(1882,44): warning C4244: 'argument': conversion from 'uint64_t' to 'uint32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node.cc(2285,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+21>D:\github\node\node-0.10\src\node.cc(3006,27): warning C4244: '=': conversion from 'uint64_t' to 'double', possible loss of data
+21>node_buffer.cc
+21>node_constants.cc
+21>node_extensions.cc
+21>node_file.cc
+21>D:\github\node\node-0.10\src\node_file.cc(298,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(410,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(427,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(445,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(479,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(499,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(515,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(535,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(555,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(572,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(589,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(605,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(621,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(639,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(655,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(695,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(749,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(812,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(834,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(855,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(882,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(909,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(933,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>D:\github\node\node-0.10\src\node_file.cc(956,5): warning C4291: 'void *node::FSReqWrap::operator new(size_t,char *)': no matching operator delete found; memory will not be freed if initialization throws an exception
+21>D:\github\node\node-0.10\src\node_file.cc(54): message : see declaration of 'node::FSReqWrap::operator new'
+21>node_http_parser.cc
+21>node_javascript.cc
+21>node_main.cc
+21>node_os.cc
+21>D:\github\node\node-0.10\src\node_os.cc(103,7): warning C4996: 'GetVersionExA': was declared deprecated
+21>D:\github\node\node-0.10\src\node_os.cc(131,67): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+21>D:\github\node\node-0.10\src\node_os.cc(132,67): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+21>D:\github\node\node-0.10\src\node_os.cc(133,66): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+21>D:\github\node\node-0.10\src\node_os.cc(134,67): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+21>D:\github\node\node-0.10\src\node_os.cc(135,66): warning C4244: 'argument': conversion from 'uint64_t' to 'double', possible loss of data
+21>D:\github\node\node-0.10\src\node_os.cc(152,17): warning C4244: 'initializing': conversion from 'uint64_t' to 'double', possible loss of data
+21>D:\github\node\node-0.10\src\node_os.cc(163,17): warning C4244: 'initializing': conversion from 'uint64_t' to 'double', possible loss of data
+21>node_revert.cc
+21>node_script.cc
+21>node_stat_watcher.cc
+21>node_string.cc
+21>node_zlib.cc
+21>pipe_wrap.cc
+21>signal_wrap.cc
+21>string_bytes.cc
+21>Generating Code...
+21>Compiling...
+21>stream_wrap.cc
+21>slab_allocator.cc
+21>tcp_wrap.cc
+21>D:\github\node\node-0.10\src\tcp_wrap.cc(263,10): warning C4244: 'initializing': conversion from 'int64_t' to 'int', possible loss of data
+21>timer_wrap.cc
+21>D:\github\node\node-0.10\src\timer_wrap.cc(155,37): warning C4244: 'argument': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>tty_wrap.cc
+21>process_wrap.cc
+21>v8_typed_array.cc
+21>udp_wrap.cc
+21>node_crypto.cc
+21>D:\github\node\node-0.10\src\node_crypto.cc(658,3): warning C4244: 'argument': conversion from 'int64_t' to 'long', possible loss of data
+21>node_win32_etw_provider.cc
+21>node_dtrace.cc
+21>D:\github\node\node-0.10\src\node_dtrace.cc(144,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(163,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(181,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(191,3): warning C4002: too many arguments for function-like macro invocation 'NODE_NET_SOCKET_READ'
+21>D:\github\node\node-0.10\src\node_dtrace.cc(205,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(215,3): warning C4002: too many arguments for function-like macro invocation 'NODE_NET_SOCKET_WRITE'
+21>D:\github\node\node-0.10\src\node_dtrace.cc(251,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(271,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(316,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>D:\github\node\node-0.10\src\node_dtrace.cc(334,3): warning C4244: '=': conversion from 'int64_t' to 'int32_t', possible loss of data
+21>node_win32_perfctr_provider.cc
+21>D:\github\node\node-0.10\tools\msvs\genfiles\node_perfctr_provider.h(32,77): warning C4838: conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+21>D:\github\node\node-0.10\tools\msvs\genfiles\node_perfctr_provider.h(33,77): warning C4838: conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+21>D:\github\node\node-0.10\tools\msvs\genfiles\node_perfctr_provider.h(35,77): warning C4838: conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+21>D:\github\node\node-0.10\tools\msvs\genfiles\node_perfctr_provider.h(36,78): warning C4838: conversion from 'unsigned long' to 'LONG' requires a narrowing conversion
+21>node_counters.cc
+21>Generating Code...
+21>RC : warning RC4005: 'PLATFORM' : redefinition
+21>
+21>RC : warning RC4005: 'PLATFORM' : redefinition
+21>
+21>RC : warning RC4005: 'PLATFORM' : redefinition
+21>
+21>src\res\node.rc(56): warning RC4003: not enough actual parameters for macro 'NODE_STRINGIFY_HELPER'
+21>
+21>src\res\node.rc(57): warning RC4003: not enough actual parameters for macro 'NODE_STRINGIFY_HELPER'
+21>
+21>   Creating library D:\github\node\node-0.10\Debug\node.lib and object D:\github\node\node-0.10\Debug\node.exp
+21>node.vcxproj -> D:\github\node\node-0.10\Debug\\node.exe
+21>Done building project "node.vcxproj".
+========== Build: 21 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
