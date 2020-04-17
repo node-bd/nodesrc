@@ -16,6 +16,9 @@ node_g
 /.project
 /.cproject
 icu_config.gypi
+.vs
+.vscode
+.idea
 
 /out
 
@@ -62,6 +65,3 @@ deps/openssl/openssl.xml
 
 # test artifacts
 tools/faketime
-.vs
-.vscode
-.idea
