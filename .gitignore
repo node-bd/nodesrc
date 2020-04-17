@@ -62,3 +62,6 @@ deps/openssl/openssl.xml
 
 # test artifacts
 tools/faketime
+.vs
+.vscode
+.idea

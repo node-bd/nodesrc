@@ -207,7 +207,7 @@
 /* ---------------------------------------------------------------- */
 
 /* Define this if in_addr_t is not an available 'typedefed' type */
-#define in_addr_t unsigned long
+// #define in_addr_t unsigned long
 
 /* Define as the return type of signal handlers (int or void).  */
 #define RETSIGTYPE void

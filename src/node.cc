@@ -25,6 +25,7 @@
 #include "string_bytes.h"
 #include "node_revert.h"
 
+
 #include "ares.h"
 #include "uv.h"
 
@@ -2664,13 +2665,16 @@ static void ParseArgs(int argc, char **argv) {
     if (strstr(arg, "--debug") == arg) {
       ParseDebugOpt(arg);
       argv[i] = const_cast<char*>("");
-    } else if (strcmp(arg, "--version") == 0 || strcmp(arg, "-v") == 0) {
+    } else if (strcmp(arg, "--version") == 0 || 
+        strcmp(arg, "-v") == 0 || strcmp(arg, "-version") == 0 ) {
       printf("%s\n", NODE_VERSION);
       exit(0);
     } else if (strstr(arg, "--max-stack-size=") == arg) {
       const char *p = 0;
       p = 1 + strchr(arg, '=');
+      
       max_stack_size = atoi(p);
+
       argv[i] = const_cast<char*>("");
 #if HAVE_OPENSSL
     } else if (strcmp(arg, "--enable-ssl2") == 0) {
@@ -3157,6 +3161,7 @@ static char **copy_argv(int argc, char **argv) {
 
 
 int Start(int argc, char *argv[]) {
+
   const char* replaceInvalid = getenv("NODE_INVALID_UTF8");
 
   if (replaceInvalid == NULL)
